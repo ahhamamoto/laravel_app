@@ -1,2 +1,3 @@
-# laravel_app
-Laravel app
+# Laravel App
+
+Let's build something interesting shall we?
